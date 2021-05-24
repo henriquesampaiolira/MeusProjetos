@@ -1,0 +1,116 @@
+#Nome{
+	color: red;
+}
+.nome{
+	color:rgba(0,100,200,0.5);
+}
+
+body{
+	background-image:url(logocursoprogramadorbr.png),url(logocursoprogramadorbr.png);
+	background-repeat:repeat-y,repeat-y; 
+	background-position:right top,left top;
+	background-size:100px,100px;
+	margin-left:120px;
+	margin-right:120px;
+	backface-visibility: 
+}
+
+.borda{
+	border-width:5px 5px 6px 6px;
+	border-style: solid;
+	border-color:red green black purple;
+	
+
+
+}
+
+.outraborda{
+	height: 100px;
+	width: 100px
+	border:5px;
+	border-style: dotted;
+
+
+}
+
+.divando{
+	background: #ddd;
+	padding:5px;
+	border:20px solid red;
+	margin:50px;
+
+
+}
+.subdivando{
+	background: green;
+	border:10px solid purple;
+	padding:5px;
+	margin:14px;
+}
+
+#loginstyle{
+	
+}
+#logimm{
+
+}
+
+.textocomum{
+	color:white;
+	text-shadow: 1px 1px 10px black;
+	text-decoration: none;
+	text-align: left;
+	text-align: center;
+}
+
+.stile{
+	text-decoration: none;
+	cursor: crosshair;
+	color: blue;
+	border: 2px solid blue;
+	border-radius: 10px;
+	padding: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 20px;
+}
+.stile:hover{
+	background: #ddd;
+	color: black;
+
+}
+
+.link{
+
+	text-decoration: none;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
