@@ -10,7 +10,7 @@ h1{
     font-size: 26px;
     text-align: center;
 }
-form input[type="number"]{
+input[type="number"]{
     padding: 3px;
     margin-bottom: 15px;
     box-sizing: border-box;
